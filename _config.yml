@@ -3,7 +3,7 @@ description: My Personal Blog
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: kramdown
-highlighter: pygments
+highlighter:
 logo: false
 paginate: 15
 baseurl: /
